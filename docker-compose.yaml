@@ -1,7 +1,7 @@
 version: '3'
 services:
   be:
-    image: solatin/decentralized-server:server-2
+    image: solatin/decentralized-server:server-1
     ports:
       - 9080:8080
     volumes:
